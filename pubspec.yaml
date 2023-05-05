@@ -1,0 +1,55 @@
+name: maze_games
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.4 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  animated_text_kit: ^4.2.2
+  align_positioned: ^3.0.0
+  maze: ^3.0.0
+  photo_view: ^0.14.0
+  drawing_animation: ^1.0.1
+  badges: ^3.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  assets:
+    - assets/fonts/
+    - assets/ui/
+    - assets/easy/
+    - assets/difference/
+   
+  fonts:
+    - family: RealtimeGamer
+      fonts:
+        - asset: assets/fonts/RealtimeGamer.ttf
+
+    
+  
+        
+
+  uses-material-design: true
+
+
+
+
