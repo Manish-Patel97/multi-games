@@ -8,7 +8,7 @@ A single Flutter application in which one can play multiple game at one place li
 
 ![final2](https://user-images.githubusercontent.com/132699582/236666523-85351495-eee5-418b-b51d-1a251f02f168.png)
 
-#Upcoming Features
+# Upcoming Features
 
 Jigsaw puzzle Game.
 
@@ -16,6 +16,6 @@ More Levels of Maze Game & Find the difference.
 
 Sound with animation & rewards.
 
-#Feedback
+# Feedback
 
 If you have any feedback please reach out to me at manish.ku.patel97@gmail.com
